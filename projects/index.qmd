@@ -1,0 +1,7 @@
+---
+title: Projects
+listing:
+  contents: projects.yml
+  type: table
+  max-description-length: 250
+---

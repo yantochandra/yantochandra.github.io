@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Dancing with Quarto\n\n\nQuarto is the only tool researchers must have!\n\n\n\nYanto Chandra\n\n\nMar 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGPT for Social Scientists?\n\n\nForget waiting for 500 respondents or spend 3 years to develop a scale.\n\n\n\nYanto Chandra\n\n\nApr 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe End of Social Enterprise?\n\n\nForget social enterprise as simply a business; (TLDR) it is a tool to enact policy change.\n\n\n\nYanto Chandra\n\n\nApr 18, 2026\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Penguins\n\n\nPython analysis of palmer penguins dataset\n\n\n\nYanto Chandra\n\n\nApr 19, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/first-post/index.html",
+    "href": "blog/first-post/index.html",
+    "title": "Dancing with Quarto",
+    "section": "",
+    "text": "I’ve been diving into Quarto lately, and honestly, the thing that blows me away is how ridiculously versatile 😄😄 it is. Basically, it’s a tool for publishing stuff—like reports, blogs, even entire books—but the magic is that once written it can magically turn into a PDF, a website, a Word doc, or even a cool beamer-style presentation. The other really cool part is: you can ✅toss in some codes from Python or R in a document, and Quarto handles all the messy behind-the-scenes work. So whether I need to send a quick ✅memo, whip up a blog ✅or churn a manuscript and use the exact same workflow 🔄, which feels like cheating 🔓🔓 but in the best way possible."
+  },
+  {
+    "objectID": "blog/second-post/index.html",
+    "href": "blog/second-post/index.html",
+    "title": "GPT for Social Scientists?",
+    "section": "",
+    "text": "Since early 2023, I and my collaborator have worked really hard to design a methodological framework using GPT for scale development and synthetic data generation to measure, predict, retrodict, and calibrate innovation outcomes using real-world and synthetic data and a human-in-the-loop process in competitive settings, where many compete but few will be winners.\nI am excited to share that our paper on this topic has been published (still early view) in Public Administration Review, an excellent journal in public administration.   Article"
+  },
+  {
+    "objectID": "blog/fourth-post/index.html",
+    "href": "blog/fourth-post/index.html",
+    "title": "The End of Social Enterprise?",
+    "section": "",
+    "text": "Social enterprise has been popularly seen as a form of business. While this is not wrong, it is a very narrow view of what it really is. Social enterprise is not just a business, it is a tool to enact policy change by working outside, inside and with the government. In this way, it can unleash more social impact and change the world for the better.\nOur paper, with data collected for nearly a decade on nine policy changing social enterprises in the Global Soutn recently won an award – The Jenei Award 2025 – awarded at the recent IRSPM 2026 conference in Perth, Australia. It was published in Public Management Review   Article"
+  },
+  {
+    "objectID": "blog/third-post/index.html",
+    "href": "blog/third-post/index.html",
+    "title": "Visualizing Penguins",
+    "section": "",
+    "text": "Here is what I did with the palmer penguins dataset in Python. I created a beautiful forest plot to visualize the standardized differences (Cohen’s d) between the three penguin species across four morphological metrics: bill length, bill depth, flipper length, and body mass. Each point represents the effect size for a specific comparison between two species, with confidence intervals shown as horizontal lines. The plot is designed to be visually appealing and informative, making it easy to interpret the differences between the species.\nHint: there were too many bugs and it took forever to get the codes right.\nOriginal dataset is here: palmerpenguins on GitHub"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Keynote Speaker, 22nd Annual Social Entrepreneurship Conference. Title: “TBC” May 2026, IMD Campus, Lausanne, Switzerland   Event \nInvited Speaker, Lingnan University Dept of Government and Int’l Affairs. Title: “Public Administration in the Era of GPT: Scale Development and Synthetic Data” Jan 2026, Lingnan University, Hong Kong   Event"
+  },
+  {
+    "objectID": "talks.html#section",
+    "href": "talks.html#section",
+    "title": "Talks",
+    "section": "",
+    "text": "Keynote Speaker, 22nd Annual Social Entrepreneurship Conference. Title: “TBC” May 2026, IMD Campus, Lausanne, Switzerland   Event \nInvited Speaker, Lingnan University Dept of Government and Int’l Affairs. Title: “Public Administration in the Era of GPT: Scale Development and Synthetic Data” Jan 2026, Lingnan University, Hong Kong   Event"
+  },
+  {
+    "objectID": "talks.html#section-1",
+    "href": "talks.html#section-1",
+    "title": "Talks",
+    "section": "2025",
+    "text": "2025\nPanel Speaker, High Level Forum on GenAI Governance and Cultural Co-Creation. Title: “Citizens Preferences on AI Governance” Oct 2025, Hong Kong University of Science and Technology (HKUST), Hong Kong   Event"
+  },
+  {
+    "objectID": "talks.html#section-2",
+    "href": "talks.html#section-2",
+    "title": "Talks",
+    "section": "2024",
+    "text": "2024\nPlenary Speaker, AI and Public Policy International Conference. Title: “Government Innovation in the Age of Generative AI: Promise and Pitfalls” Nanyang Centre for Public Admin, Nanyang Tech University, Nov 2024, Singapore   Event"
+  },
+  {
+    "objectID": "talks.html#section-3",
+    "href": "talks.html#section-3",
+    "title": "Talks",
+    "section": "2023",
+    "text": "2023\nInvited Speaker, **Artificial Intelligence as Method” Hosted by the Department of Government and Public Administration, University of Macau, Macau SAR, China, 4 December 2023\nKeynote Speaker, The 11th Gadjah Mada International Conference on Economics and Business (GAMAICEB). Title: “Blockchain as a New Driver of Social Entrepreneurship” Sept 2024, Yogyakarta, Indonesia.   Event"
+  },
+  {
+    "objectID": "talks.html#section-4",
+    "href": "talks.html#section-4",
+    "title": "Talks",
+    "section": "2022",
+    "text": "2022\nKeynote Speaker, APRU Carbon Neutral Society Conference. Title: “Blockchain as Social Innovation: Smart Contract for P2P Energy Trading” Kyushu University and Association of Pacific Rim Universities (APRU). June 2022, Online   Event"
+  },
+  {
+    "objectID": "talks.html#section-5",
+    "href": "talks.html#section-5",
+    "title": "Talks",
+    "section": "2021",
+    "text": "2021\nInvited Speaker, Japanese Academic Association of Organizational Science (AAOS). Title: “The Promise of Emancipatory Entrepreneuring Research” Aug 2021, Online.   Event"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Select Publications\n\n\n2026\nYanto Chandra and Jianxiang Tan (2026). Re-Imagining the Epistemic Possibilities of GPT for Public Administration Research in Competitive Settings. Public Administration Review (Q1, IF: 4.9)   Preprint    Published \nNaikang Feng, Yanto Chandra (2026). Principal–Agent Issues When Governments Embrace AI Agents. Public Money & Management (Q2, IF: 2.1)\nStratos Ramoglou, Liang Shang, Yanto Chandra, Jeffery McMullen (2026). Are Language Models Intelligent Enough for Entrepreneurial Work? A Language-Centered Perspective. Journal of Business Venturing (FT50, Q1, IF: 8.7)   Preprint    Published \nJianxiang Tan, Yanto Chandra (2026). Governing Military Artificial Intelligence Technologies: Manufacturing War or Peace with AI. Chinese Political Science Review (Q1, IF: 3.1)   Preprint    Published \nNaikang Feng, Yanto Chandra (2026). The Epistemic Impact of LLMs on Policymaking.  Policy Studies Journal (Q1, IF: 4.9)   Preprint    Published \nZiye Weng, Yanto Chandra (2026). Rumor Management during Natural Disasters: A “Whole of Government” Coordination Perspective. Government Information Quarterly*(Q1, IF: 10)   Preprint    Published \n\n\n2025\nNaikang Feng, Yanto Chandra (2026). Accountability in Government Use of AI: Citizen Concerns and Preferences. Public Administration (Q1, IF: 5.1)   Preprint    Published \nStratos Ramoglou, Yanto Chandra, Qian Jin (2025). Opportunity Search in the Era of AI: Navigating Uncertainty in an Expanding Universe but Unknowable Futures. Journal of Management Studies 63(2): 695-721 (FT50, Q1, IF: 6.4)   Preprint    Published \nJianxiang Tan, Yanto Chandra (2025). Artificial Intelligence as a Framework for Public Service Innovation.  Public Money & Management   Preprint    Published \nYanto Chandra, Ruiping Fan (2025). Artificial Intelligence and the Future of Human Relations: Eastern and Western Perspectives. Nature Springer   Preprint    Published \nYanto Chandra, Naikang Feng (2025). Algorithms for a New Season? Mapping a Decade of Research on the Artificial Intelligence-Driven Digital Transformation of Public Administration. Public Management Review (Q1, IF: 4.9)   Preprint    Published \nYanto Chandra, Simon Teasdale (2025). Social Enterprise as Political Work: Perspectives from the Global South. Public Management Review 27(6): 1701-1740 (Q1, IF: 4.9) Winner of the 2025 Jenei Award, awarded by Public Management Review and Taylor & Francis at the IRSPM 2026 Conference   Preprint    Published \n\n\n2024\nStratos Ramoglou, Reiner Schaefer, Yanto Chandra, Jeff McMullen (2024). Artificial Intelligence Forces Us to Rethink Knightian Uncertainty: A Commentary on Townsend et al’s “Are the Futures Computable.  Academy of Management Review 50(2): 471-473   Preprint    Published \n\n\n2023\nRichard Walker, Jiasheng Zhang, Yanto Chandra, Binzizi Dong, Yara Wang (2023). Revisiting the Academic-Practitioner Divide: Evidence from Computational Social Sciences and Corpus Linguistics.  Public Administration Review 83: 1599-1617   Preprint    Published \n\n\n2022\nYanto Chandra, Qian Jin (2022). Winning the Heart and Shaping the Mind with “Serious Play”: The Efficacy of Social Entrepreneurship Comics as Ethical Business Pedagogy. Journal of Business Ethics 188: 441-465   Preprint    Published \n\n\n2021\nYanto Chandra, Arnil Paras (2021). Social Entrepreneurship in the Context of Disaster Recovery: Organizing for Public Value Creation. Public Management Review 23(12): 1856-1877. (Q1, IF: 4.9) Winner of the Kooiman Prize, awarded by Public Management Review and Taylor & Francis   Preprint    Published \nYanto Chandra, Liang Shang, Michael Roy (2021). Understanding Healthcare Social Enterprises: A New Public Governance Perspective. Journal of Social Policy 5194): 834-855. Best Paper Award, International Social Innovation Research Conference (ISIRC) 2020, Sheffield, United Kingdom\n  Preprint    Published"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards",
+    "section": "",
+    "text": "Winner of  The Jenei Award, awarded for “a remarkable and commendable contribution to an innovative or under researched field in public management” (named after Gyogy Jenei) by Public Management Review, Taylor & Francis and IRSPM 2026. Shared with Simon Teasdale   Award \n Stanford 2% Scientist (2025, 2024, 2023, 2022, 2021), for two categories: Public Administration and Political Science and Business and Management   2025 Data"
+  },
+  {
+    "objectID": "awards.html#section",
+    "href": "awards.html#section",
+    "title": "Awards",
+    "section": "",
+    "text": "Winner of  The Jenei Award, awarded for “a remarkable and commendable contribution to an innovative or under researched field in public management” (named after Gyogy Jenei) by Public Management Review, Taylor & Francis and IRSPM 2026. Shared with Simon Teasdale   Award \n Stanford 2% Scientist (2025, 2024, 2023, 2022, 2021), for two categories: Public Administration and Political Science and Business and Management   2025 Data"
+  },
+  {
+    "objectID": "awards.html#section-1",
+    "href": "awards.html#section-1",
+    "title": "Awards",
+    "section": "2024",
+    "text": "2024\nWinner of  Best Conference Proceeding Paper, The Annual Academy of Management Meeting 2024 “Finetuning Artificial Intelligence for Entrepreneurial Pitching Effectiveness” Awarded by the Academy of Management, Technology and Innovation Management Division. Shared with Stratos Ramoglou and Shang Liang"
+  },
+  {
+    "objectID": "awards.html#section-2",
+    "href": "awards.html#section-2",
+    "title": "Awards",
+    "section": "2022",
+    "text": "2022\nWinner of  The Kooiman Best Paper Award 2021 recognizing his contribution to public management research.   Award \nWinner of  Best Conference Proceeding Paper, The Annual Academy of Management Meeting 2022 The Mechanisms of Performance in Social Entrepreneurship: Assemblage, Market Building, Issue Selling Awarded by the Academy of Management 2022, Entrepreneurship Division. Shared with Long Wang"
+  },
+  {
+    "objectID": "awards.html#section-3",
+    "href": "awards.html#section-3",
+    "title": "Awards",
+    "section": "2021",
+    "text": "2021\nWinner of  Best Paper Award International Social Innovation Research Conference (ISIRC) 2020, Sheffield, United Kingdom. “Understanding Healthcare Social Enterprises: A New Public Governance Perspective” Shared with Shang Liang and Michael Roy Published in Journal of Social Policy   Award \nWinner of  Editors’ Choice Award 2021, 2021管理觀念與應用研討會編輯特選獎, 國立台灣大學管理學院，國立中山大學管理學院. “The Virtue of Calculative Mindset: A Community-Based View of Entrepreneurial Action and its Implications to Altruistic Venturing” Awarded by National Taiwan University and National Sun Yat Sen University (Taiwan). Shared with Shu-Jung Yang"
+  },
+  {
+    "objectID": "awards.html#section-4",
+    "href": "awards.html#section-4",
+    "title": "Awards",
+    "section": "2017",
+    "text": "2017\nWinner of  Teaching Innovation Award 2017, awarded by the College of Liberal Arts and Social Sciences (CLASS), City University of Hong Kong.   Award"
+  },
+  {
+    "objectID": "awards.html#section-5",
+    "href": "awards.html#section-5",
+    "title": "Awards",
+    "section": "2016",
+    "text": "2016\nWinner of  Teaching Excellence 2015 Award, a university-wide contest, awarded by the President of City University of Hong Kong.   Award \n Finalist of UGC Teaching Excellence Award 2016, a nominee representing City University of Hong Kong at the UGC level selection."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Brief title\n      \n      \n      \n      \n        Description\n      \n      \n        Funder\n      \n      \n        Status\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nBrief title\n\n\n\n \n\n\n\nDescription\n\n\n\nFunder\n\n\n\nStatus\n\n\n\n\n\n\n\n\nGoverning Decentralized Autonomous Organizations\n\n\n\n\n\nExplores the governance issues in autonomous organizations and decision makers’ preference in designing autonomous organizations. \n\n\nGeneral Research Grant (GRF)\n\n\nOngoing\n\n\n\n\n\n\nResponsible Use of AI\n\n\n\n\n\nExamines learners’ attitude toward resposible use of LLM, qualitatively and experimentally. \n\n\nUGC Fund for Innovative Technology-in-Use (FITE)\n\n\nOngoing\n\n\n\n\n\n\nEnhancing the Outcomes of AI-Driven Innovation\n\n\n\n\n\nExperimentally examines how LLM prompt training improves citizen crowdsourcing outcomes. \n\n\nTeaching Development Grant (TDG)\n\n\nOngoing\n\n\n\n\n\n\nLegitimacy and Consumer Patronage of Social Enterprises\n\n\n\n\n\nUsing legitimacy signalling to test citizens response to types of legitimacy, using lab, field, survey experiments. \n\n\nGeneral Research Grant (GRF)\n\n\nCompleted (2020-2025)\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Associate Editor, Public Management Review, 2026 - Present\nArea Editor, Data & Policy (Cambridge), 2025 - Present\nAssociate Editor, Journal of Business Venturing Insights, 2021 - Present\nEditorial Board, Public Administration and Development, International Journal of Public Sector Management, Academy of Management Perspectives, Present"
+  },
+  {
+    "objectID": "services.html#regular-services",
+    "href": "services.html#regular-services",
+    "title": "Services",
+    "section": "",
+    "text": "Associate Editor, Public Management Review, 2026 - Present\nArea Editor, Data & Policy (Cambridge), 2025 - Present\nAssociate Editor, Journal of Business Venturing Insights, 2021 - Present\nEditorial Board, Public Administration and Development, International Journal of Public Sector Management, Academy of Management Perspectives, Present"
+  },
+  {
+    "objectID": "services.html#special-issues",
+    "href": "services.html#special-issues",
+    "title": "Services",
+    "section": "Special Issues",
+    "text": "Special Issues\nCo-Guest Editor,  Information Polity, Special Issue on AI x Environmental Governance (here)\nCo-Guest Editor,  Journal of Business Venturing, Special Issue on AI (here)\nCo-Guest Editor,  European Management Journal, Special Issue on Social Entrepreneurship x AI (here)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yanto Chandra 蔡振榮",
+    "section": "",
+    "text": "My research lies at the intersection of innovation and strategy in the public and social sectors. I use data science, computational social science, and experimental designs to make policies and societies better and happier. I’m also interested in applying textual data to make reproducible inference.\nI have published in reputable journals in public administration and policy, including Public Administration Review, Public Management Review, Public Administration, Policy Studies Journal , and also in management and organizations such as  Journal of Management Studies, Academy of Management Review, Journal of Business Venturing. \nI work with R/RStudio, Python, Quarto, GitHub, and I’m always looking for new tools to make my research better."
+  }
+]

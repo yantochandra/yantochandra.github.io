@@ -1,0 +1,35 @@
+- Brief title: Governing decentralized autonomous organizations
+  path: https://example.com/house-prices
+  # Photo by Breno Assis on Unsplash https://unsplash.com/photos/aerial-photography-of-rural-r3WAWU5Fi5Q 
+  image: images/breno-assis-r3WAWU5Fi5Q-unsplash.jpg
+  description: >
+    Explores the governance issues in autonomous organizations and decision makers' preference in designing them.
+  Funder: General Research Grant (GRF)
+  Status: Ongoing
+
+- Brief title: Responsible use of AI
+  path: https://example.com/customer-segmentation
+  # Photo by Adrien Delforge on Unsplash  https://unsplash.com/photos/man-in-black-long-sleeve-shirt-and-black-pants-standing-on-shopping-cart-CrHG_ZYn1Dw
+  image: images/adrien-delforge-CrHG_ZYn1Dw-unsplash.jpg
+  description: >
+    Examines learners' attitude toward resposible use of LLM, qualitatively and experimentally.
+  Funder: UGC Fund for Innovative Technology-in-Use (FITE)
+  Status: Ongoing
+
+- Brief title: Enhancing the outcomes of AI-driven innovation
+  path: https://example.com/co2-visualization
+  # Photo by Anne Nygård on Unsplash https://unsplash.com/photos/white-clouds-in-blue-sky-vc-vPgGqAr4
+  image: images/anne-nygard-vc-vPgGqAr4-unsplash.jpg
+  description: >
+    Experimentally examines how LLM prompt training improves citizen crowdsourcing outcomes.
+  Funder: Teaching Development Grant (TDG)
+  Status: Ongoing
+  
+- Brief title: Legitimacy and consumer patronage of social enterprises
+  path: https://example.com/co2-visualization
+  # Photo by atelierbyvineeth on Unsplash https://unsplash.com/photos/man-making-coffee-in-a-food-truck-wgfT6Eg9VQA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+  image: images/atelierbyvineeth-wgfT6Eg9VQA-unsplash.jpg
+  description: >
+    Using legitimacy signalling to test response to types of legitimacy, using lab, field, survey experiments.
+  Funder: General Research Grant (GRF)
+  Status: Completed (2020-2025)

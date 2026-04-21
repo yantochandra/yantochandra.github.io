@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+  
+execute: 
+  freeze: auto
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  navbar:
+    title: Yanto Chandra 
+    left:
+      - href: research.qmd
+      
+      - href: projects/index.qmd
+      
+      - href: services.qmd
+      
+      - href: talks.qmd
+        
+      - href: awards.qmd
+        
+      - href: blog/index.qmd  
+
+
+    tools:
+      - icon: github
+        href: github.com
+        
+  
+format:
+  html:
+    backgroundcolor: "#ffffff"
+    fontcolor: "black"
+    linkcolor: "black" 
+    mainfont: "palatino linotype" 
+    fontsize: 12pt
+    theme: [cosmo, styles.scss]
+

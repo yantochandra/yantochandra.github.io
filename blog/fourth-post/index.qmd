@@ -1,0 +1,14 @@
+---
+title: "The end of social enterprise?"
+description: "Forget social enterprise as simply a business; (TLDR) it is a tool to enact policy change."
+author: "Yanto Chandra"
+date: "18 April 2026"
+image: "cover.jpg"
+categories:
+  - Social Science
+  - Data
+---
+
+Social enterprise has been popularly seen as a form of business. While this is not wrong, it is a very narrow view of what it really is. Social enterprise is not just a business, it is a tool to enact policy change by working outside, inside and with the government. In this way, it can unleash more social impact and change the world for the better.
+
+Our paper, with data collected for nearly a decade on nine policy changing social enterprises in the Global Soutn recently won an award – **The Jenei Award 2025** – awarded at the recent IRSPM 2026 conference in Perth, Australia. It was published in ***Public Management Review*** <a href="https://www.tandfonline.com/journals/rpxm20/collections/jenei-award" target="_blank" rel="noopener" class="btn btn-outline-dark btn-sm" style="padding: 0.15rem 0.5rem; font-size: 0.7rem; border-radius: 2rem; gap: 0.2rem; display: inline-flex; align-items: center;"> <i class="bi bi-file-earmark-pdf"></i> Published </a>

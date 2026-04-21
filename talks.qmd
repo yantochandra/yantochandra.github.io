@@ -1,0 +1,36 @@
+---
+title: "Talks"
+editor: visual
+---
+
+## **2026**
+
+Invited Panelist, **2026 Asia Pacific Policy Network (AP-PPN) Conference**. Title: *Publishing Strategies in Public Management Journal (the Editor's Forum)* May 2026, Zhou Enlai School of Government, Nankai University, Tianjin, China [<a href="https://www.ippapublicpolicy.org/announcement/call-for-papers-2026-asia-pacific-public-policy-network-agm-tianjin-china/1147"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+
+Invited Speaker, Title: *LLM as a New Epistemology: What Social Sciences Will Look Like in Three Years Time.* April 2026, Hosted by Institute of Innovation and Entrepreneurship, Bern University of Applied Sciences, Bern, Switzerland  [<a href="https://www.ippapublicpolicy.org/announcement/call-for-papers-2026-asia-pacific-public-policy-network-agm-tianjin-china/1147"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+
+Keynote Speaker, **22nd Annual Social Entrepreneurship Conference**. Title: *The End of Social Entrepreneurship? A Socio Political Turn and Why We Need it in the Policymakers Toolkits* May 2026, IMD Campus, Lausanne, Switzerland [<a href="https://www.imd.org/event/social-entrepreneurship/2026-04-30/conference/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+
+Invited Speaker, **Lingnan University Dept of Government and Int'l Affairs**. Title: *Public Administration in the Era of GPT: Scale Development and Synthetic Data* Jan 2026, Lingnan University, Hong Kong [<a href="https://www.ln.edu.hk/gia/f/subsitefrontpage/106821/Public%20Lecture%20on%2022%20JAN%202026.jpg"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+
+## **2025**
+
+Panel Speaker, **High Level Forum on GenAI Governance and Cultural Co-Creation**. Title: *Citizens Preferences on AI Governance* Oct 2025, Hong Kong University of Science and Technology (HKUST), Hong Kong [<a href="https://hkust-mirc.github.io/GAGCC/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+
+## **2024**
+
+Plenary Speaker, **AI and Public Policy International Conference**. Title: *"Government Innovation in the Age of Generative AI: Promise and Pitfalls"* Nanyang Centre for Public Admin, Nanyang Technological University, Nov 2024, Singapore [<a href="https://cms.lienconference.sg/index/index/detail?id=35"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+
+## **2023**
+
+Invited Speaker, Title: *Artificial Intelligence as a Method.* Hosted by the Department of Government and Public Administration, University of Macau, Macau SAR, China, 4 December 2023
+
+Keynote Speaker, **The 11th Gadjah Mada International Conference on Economics and Business (GAMAICEB)**. Title: *Blockchain as a New Driver of Social Entrepreneurship* Sept 2024, Yogyakarta, Indonesia. [<a href="https://feb.ugm.ac.id/en/news/4316-ifrs-enforcement-handling-greenwashing-and-blockchain-as-a-driver-of-social-entrepreneurship"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+
+## **2022**
+
+Keynote Speaker, **APRU Carbon Neutral Society Conference**. Title: *Blockchain as Social Innovation: Smart Contract for P2P Energy Trading* Kyushu University and Association of Pacific Rim Universities (APRU). June 2022, Online [<a href="https://www.apru.org/event/apru-carbon-neutral-society-action-month/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+
+## **2021**
+
+Invited Speaker, **Japanese Academic Association of Organizational Science (AAOS)**. Title: *The Promise of Emancipatory Entrepreneuring Research* Aug 2021, Online. [<a href="https://sites.google.com/view/aaos-online-seminar20210806/%E3%83%9B%E3%83%BC%E3%83%A0 "> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
