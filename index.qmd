@@ -1,0 +1,36 @@
+---
+title: Yanto Chandra 蔡振榮
+subtitle: Computational | Experimental | Artefacts | Artistry
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  # try also: trestles, jolla, solana, marquee, broadside
+  image-shape: round 
+  #links removed to the bottom of the page
+
+---
+
+
+
+I am a professor at the City University of Hong Kong. My research lies at the intersection of innovation and strategy in the public and social sectors. I use data science, computational social science, and experimental designs to make policies and societies better and happier. I’m also applying textual data to make reproducible inference. Ocassionally, I do conceptual work for breaking new ground. Theory is important but I am not theory-fetish. My new mission: go beyond journal publications. Turn research into real-world artefacts: tools, apps, and repositories.
+
+I have published in reputable journals in public administration and policy, including *Public Administration Review, Public Management Review, Public Administration, Policy Studies Journal *, and also in management and organizations such as  *Journal of Management Studies, Academy of Management Review, Journal of Business Venturing, Journal of International Business Studies.* 
+
+I work with R/RStudio, Python, Quarto, GitHub, Netlify, and I’m always looking for new tools to make my research better. 
+
+
+<div style="text-align: center; margin-top: 2rem; font-size: 0.85rem;">
+  <a href="mailto:ychandra@cityu.edu.hk" style="margin: 0 0.8rem; text-decoration: none;">
+    <i class="bi bi-envelope" style="font-size: 1em;"></i> Email
+  </a>
+  <a href="https://linkedin.com/in/yantochandra" target="_blank" style="margin: 0 0.8rem; text-decoration: none;">
+    <i class="bi bi-linkedin" style="font-size: 1em;"></i> LinkedIn
+  </a>
+  <a href="https://github.com/yantochandra" target="_blank" style="margin: 0 0.8rem; text-decoration: none;">
+    <i class="bi bi-github" style="font-size: 1em;"></i> GitHub
+  </a>
+  <a href="https://scholar.google.com/citations?user=m5ig9lgAAAAJ&hl=en" target="_blank" style="margin: 0 0.8rem; text-decoration: none;">
+    <i class="bi bi-mortarboard" style="font-size: 1em;"></i> Google Scholar
+  </a>
+</div>
