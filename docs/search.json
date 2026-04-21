@@ -144,7 +144,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "Dancing with Quarto\n\n\nQuarto: love at first sight!\n\n\n\nYanto Chandra\n\n\nMar 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGPT for social scientists?\n\n\nDon’t waste 3 years to develop a scale or collect data.\n\n\n\nYanto Chandra\n\n\nApr 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe end of social enterprise?\n\n\nForget social enterprise as simply a business; (TLDR) it is a tool to enact policy change.\n\n\n\nYanto Chandra\n\n\nApr 18, 2026\n\n\n\n\n\n\n\n\n\n\n\nVisualizing penguins\n\n\nToying with palmer penguins dataset\n\n\n\nYanto Chandra\n\n\nApr 21, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Dancing with Quarto\n\n\nQuarto: love at first sight!\n\n\n\nYanto Chandra\n\n\nMar 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGPT for social scientists?\n\n\nDon’t waste 3 years to develop a scale or collect data.\n\n\n\nYanto Chandra\n\n\nApr 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nSinging with Quarto\n\n\nQuarto: love at first sight!\n\n\n\nYanto Chandra\n\n\nMar 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe end of social enterprise?\n\n\nForget social enterprise as simply a business; (TLDR) it is a tool to enact policy change.\n\n\n\nYanto Chandra\n\n\nApr 18, 2026\n\n\n\n\n\n\n\n\n\n\n\nVisualizing penguins\n\n\nToying with palmer penguins dataset\n\n\n\nYanto Chandra\n\n\nApr 21, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/third-post/index.html",
@@ -173,5 +173,12 @@
     "title": "Services",
     "section": "Special Issues",
     "text": "Special Issues\nCo-Guest Editor,  Information Polity, SI on AI x Environmental Governance  ⏳ In Progress \nCo-Guest Editor,  Journal of Business Venturing, SI on AI  🔒 Submission Closed \nCo-Guest Editor,  Journal of Business Venturing Insights, SI on AI  ⏳ In Progress \nCo-Guest Editor,  European Management Journal, SI on Social Entrepreneurship in New Contexts/Methods  ⏳ In Progress"
+  },
+  {
+    "objectID": "blog/fifth-post/index.html",
+    "href": "blog/fifth-post/index.html",
+    "title": "Singing with Quarto",
+    "section": "",
+    "text": "I’ve been diving into Quarto lately, and honestly, the thing that blows me away is how ridiculously versatile 😄😄 it is. Basically, it’s a tool for publishing stuff—like reports, blogs, even entire books—but the magic is that once written it can magically turn into a PDF, a website, a Word doc, or even a cool beamer-style presentation. The other really cool part is: you can ✅toss in some codes from Python or R in a document, and Quarto handles all the messy behind-the-scenes work. So whether I need to send a quick ✅memo, whip up a blog ✅or churn a manuscript and use the exact same workflow 🔄, which feels like cheating 🔓🔓 but in the best way possible."
   }
 ]
