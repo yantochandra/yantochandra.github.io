@@ -11,6 +11,7 @@ execute:
 description: "Toying with palmer penguins dataset"
 author: "Yanto Chandra"
 date: "21 April 2026"
+image: "cover.png"
 categories:
   - Data
   - Python
@@ -22,8 +23,7 @@ Hint: ***there were too many bugs and it took forever to get the codes right.***
 
 Original dataset is here: [palmerpenguins on GitHub](https://github.com/allisonhorst/palmerpenguins)
 
-
-```{python}         
+```{python}
 #install necessary libraries and load the dataset
 
 #| echo: false
@@ -46,15 +46,12 @@ import warnings
 warnings.filterwarnings('ignore')
 ```
 
-
 ```{python}
 #load the dataset
 penguins = load_penguins()
 penguins_clean = penguins.dropna()
 
 ```
-
-
 
 ```{python}
 # Set the aesthetic style

@@ -3,4 +3,6 @@ title: Blog
 listing: 
   contents: /
   type: grid 
+  sort: "date desc"
+  sort-ui: false
 ---
