@@ -11,33 +11,16 @@ editor: visual
 
 **Associate Editor,** ***Journal of Business Venturing Insights***, 2021 - Present
 
-**Editorial Board,** ***Public Administration and Development, International Journal of Public Sector Management, Academy of Management Perspectives,*** ~ 2024 - Present
+**Editorial Board,** ***Public Administration and Development, International Journal of Public Sector Management, Academy of Management Perspectives,*** \~ 2024 - Present
 
 ## **Special Issues**
 
-**Lead Co-Guest Editor,**  ***Public Administration and Development***, SI on The Downsides of AI and Global Inequities: Why Good Governance Matters
-<span style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;">
-  <a href="https://onlinelibrary.wiley.com/page/journal/1099162x/homepage/call-for-papers/ai-global-inequities" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ In Progress</a>
-</span>
+**Lead Co-Guest Editor,**  ***Public Administration and Development***, SI on The Downsides of AI and Global Inequities: Why Good Governance Matters [ <a href="https://onlinelibrary.wiley.com/page/journal/1099162x/homepage/call-for-papers/ai-global-inequities" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ In Progress</a> ]{style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;"}
 
-**Co-Guest Editor,**  ***Information Polity***, SI on AI x Environmental Governance
-<span style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;">
-  <a href="https://journals.sagepub.com/page/ipo/cfp-ai-environmental-governance?_gl=1*1h4j2r2*_up*MQ..*_ga*MTcwODY3NDQwMi4xNzc2NzM1OTM2*_ga_60R758KFDG*czE3NzY3MzU5MzUkbzEkZzAkdDE3NzY3MzU5MzUkajYwJGwwJGgxNzMyNDY2OTg0" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ In Progress</a>
-</span>
+**Co-Guest Editor,**  ***Information Polity***, SI on AI x Environmental Governance [ <a href="https://journals.sagepub.com/page/ipo/cfp-ai-environmental-governance?_gl=1*1h4j2r2*_up*MQ..*_ga*MTcwODY3NDQwMi4xNzc2NzM1OTM2*_ga_60R758KFDG*czE3NzY3MzU5MzUkbzEkZzAkdDE3NzY3MzU5MzUkajYwJGwwJGgxNzMyNDY2OTg0" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ In Progress</a> ]{style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;"}
 
-**Co-Guest Editor,**  ***Journal of Business Venturing***, SI on AI
-<span style="display: inline-block; background-color: #e9ecef; border: 1px solid #ced4da; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;">
-  <a href="https://ent.aom.org/discussion/jbv-si-on-artificial-intelligence-submission-deadline-reminder" target="_blank" rel="noopener" style="color: #495057; text-decoration: none;">🔒 Submission Closed</a>
-</span>
+**Co-Guest Editor,**  ***Journal of Business Venturing***, SI on AI [ <a href="https://ent.aom.org/discussion/jbv-si-on-artificial-intelligence-submission-deadline-reminder" target="_blank" rel="noopener" style="color: #495057; text-decoration: none;">🔒 Submission Closed</a> ]{style="display: inline-block; background-color: #e9ecef; border: 1px solid #ced4da; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;"}
 
-**Co-Guest Editor,**  ***Journal of Business Venturing Insights***, SI on AI
-<span style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;">
-  <a href="https://www.sciencedirect.com/special-issue/323847/artificial-intelligence-and-the-redrawing-of-boundaries-in-entrepreneurship-research-a-provocation" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ In Progress</a>
-</span>
+**Co-Guest Editor,**  ***Journal of Business Venturing Insights***, SI on AI [ <a href="https://www.sciencedirect.com/special-issue/323847/artificial-intelligence-and-the-redrawing-of-boundaries-in-entrepreneurship-research-a-provocation" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ In Progress</a> ]{style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;"}
 
-
-**Co-Guest Editor,**  ***European Management Journal***, SI on Social Entrepreneurship in New Contexts/Methods
-<span style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;">
-  <a href="https://www.sciencedirect.com/special-issue/330372/social-good-under-transformation-new-contexts-for-social-entrepreneurship" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ In Progress</a>
-</span>
-
+**Co-Guest Editor,**  ***European Management Journal***, SI on Social Entrepreneurship in New Contexts/Methods [ <a href="https://www.sciencedirect.com/special-issue/330372/social-good-under-transformation-new-contexts-for-social-entrepreneurship" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ In Progress</a> ]{style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;"}
