@@ -29,7 +29,7 @@
         "\n",
         "Original dataset is here: [palmerpenguins on GitHub](https://github.com/allisonhorst/palmerpenguins)"
       ],
-      "id": "8bb33c33"
+      "id": "5f7ccc32"
     },
     {
       "cell_type": "code",
@@ -56,7 +56,7 @@
         "import warnings\n",
         "warnings.filterwarnings('ignore')"
       ],
-      "id": "340ae090",
+      "id": "92070f67",
       "execution_count": null,
       "outputs": []
     },
@@ -68,7 +68,7 @@
         "penguins = load_penguins()\n",
         "penguins_clean = penguins.dropna()"
       ],
-      "id": "8506c231",
+      "id": "bdb88a63",
       "execution_count": null,
       "outputs": []
     },
@@ -81,7 +81,7 @@
         "sns.set_palette(\"husl\")\n",
         "sns.set_context(\"notebook\", font_scale=1.4)"
       ],
-      "id": "d32dd6a3",
+      "id": "198690bf",
       "execution_count": null,
       "outputs": []
     },
@@ -96,7 +96,7 @@
         "    'Gentoo': '#45B7D1'   # Sky blue\n",
         "}"
       ],
-      "id": "ecaddaa9",
+      "id": "5687c6e7",
       "execution_count": null,
       "outputs": []
     },
@@ -118,7 +118,7 @@
         "ax1.legend(frameon=True, fancybox=True, shadow=True, fontsize=10)\n",
         "ax1.grid(True, alpha=0.5)"
       ],
-      "id": "4cbd17bd",
+      "id": "8a1563c7",
       "execution_count": null,
       "outputs": []
     },
@@ -139,7 +139,7 @@
         "ax3.set_title('Bill Length Distribution\\nSpecies Comparison', fontsize=12, fontweight='bold')\n",
         "ax3.grid(True, alpha=0.5, axis='y')"
       ],
-      "id": "36911533",
+      "id": "35533cf7",
       "execution_count": null,
       "outputs": []
     },
@@ -152,7 +152,7 @@
         "metrics = ['bill_length_mm', 'bill_depth_mm', 'flipper_length_mm', 'body_mass_g']\n",
         "metric_labels = ['Bill Length (mm)', 'Bill Depth (mm)', 'Flipper Length (mm)', 'Body Mass (g)']"
       ],
-      "id": "a8929d3e",
+      "id": "56a78320",
       "execution_count": null,
       "outputs": []
     },
@@ -180,7 +180,7 @@
         "    \n",
         "    return cohens_d, ci_lower, ci_upper"
       ],
-      "id": "e0b3da61",
+      "id": "24bd2196",
       "execution_count": null,
       "outputs": []
     },
@@ -281,7 +281,7 @@
         "plt.tight_layout()\n",
         "plt.show()"
       ],
-      "id": "13b220ba",
+      "id": "e67da383",
       "execution_count": null,
       "outputs": []
     },
@@ -294,7 +294,7 @@
         "metrics = ['bill_length_mm', 'bill_depth_mm', 'flipper_length_mm', 'body_mass_g']\n",
         "metric_labels = ['Bill Length (mm)', 'Bill Depth (mm)', 'Flipper Length (mm)', 'Body Mass (g)']"
       ],
-      "id": "d9493a80",
+      "id": "0de91f41",
       "execution_count": null,
       "outputs": []
     },
@@ -322,7 +322,7 @@
         "    \n",
         "    return cohens_d, ci_lower, ci_upper"
       ],
-      "id": "1156ddcc",
+      "id": "87cb76ad",
       "execution_count": null,
       "outputs": []
     },
@@ -488,7 +488,7 @@
         "plt.tight_layout()\n",
         "plt.show()"
       ],
-      "id": "21580d9b",
+      "id": "494be509",
       "execution_count": null,
       "outputs": []
     }
