@@ -15,6 +15,11 @@ editor: visual
 
 ## **Special Issues**
 
+**Lead Co-Guest Editor,**  ***Public Administration and Development***, SI on The Downsides of AI and Global Inequities: Why Good Governance Matters
+<span style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;">
+  <a href="https://onlinelibrary.wiley.com/page/journal/1099162x/homepage/call-for-papers/ai-global-inequities" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ In Progress</a>
+</span>
+
 **Co-Guest Editor,**  ***Information Polity***, SI on AI x Environmental Governance
 <span style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;">
   <a href="https://journals.sagepub.com/page/ipo/cfp-ai-environmental-governance?_gl=1*1h4j2r2*_up*MQ..*_ga*MTcwODY3NDQwMi4xNzc2NzM1OTM2*_ga_60R758KFDG*czE3NzY3MzU5MzUkbzEkZzAkdDE3NzY3MzU5MzUkajYwJGwwJGgxNzMyNDY2OTg0" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ In Progress</a>
