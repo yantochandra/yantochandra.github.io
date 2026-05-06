@@ -26,4 +26,5 @@ editor: visual
 **Co-Guest Editor,**  ***European Management Journal***, SI on Social Entrepreneurship in New Contexts/Methods [<a href="https://www.sciencedirect.com/special-issue/330372/social-good-under-transformation-new-contexts-for-social-entrepreneurship" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ In Progress</a>]{style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;"}
 
 ## **Services to the Academic Community**
+
 **Co-Chair,**  ***Special Interest Group (SIG) on Agile and Digital Transformation***, International Research Society for Public Management (IRSPM) [<a href="https://www.irspm.org/" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ Current</a>]{style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;"}
