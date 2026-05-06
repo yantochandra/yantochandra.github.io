@@ -7,9 +7,10 @@ editor: visual
 
 Invited Panelist, **2026 Asia Pacific Policy Network (AP-PPN) Conference**. Title: *Publishing Strategies in Public Management Journal (the Editor's Forum)* May 2026, Zhou Enlai School of Government, Nankai University, Tianjin, China [<a href="https://www.ippapublicpolicy.org/announcement/call-for-papers-2026-asia-pacific-public-policy-network-agm-tianjin-china/1147"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
-Invited Speaker, Title: *LLM as a New Epistemology and How It Will Change Social Sciences.* April 2026, Hosted by Institute of Innovation and Entrepreneurship, Bern University of Applied Sciences, Bern, Switzerland. [<a href="https://www.bfh.ch/en/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+Invited Speaker, Title: **LLM as a New Epistemology and How It Will Change Social Sciences.** April 2026, Hosted by Institute of Innovation and Entrepreneurship, Bern University of Applied Sciences, Bern, Switzerland. [<a href="https://www.bfh.ch/en/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
-Keynote Speaker, **22nd Annual Social Entrepreneurship Conference**. Title: *The End of Social Entrepreneurship? A Socio Political Turn and Why We Need it in the Policymakers Toolkits* May 2026, IMD Campus, Lausanne, Switzerland. [<a href="https://www.imd.org/event/social-entrepreneurship/2026-04-30/conference/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+Keynote Speaker, **22nd Annual Social Entrepreneurship Conference**. Title: *The End of Social Entrepreneurship? A Socio Political Turn and Why We Need it in the Policymakers Toolkits* May 2026, IMD Campus, Lausanne, Switzerland. [<a href="https://specialevents.imd.org/products/22nd-annual-social-entrepreneurship-conference"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"} [<a href="https://www.youtube.com/watch?v=97NqF88G8qI"> <i class="bi bi-journal-bookmark"></i> YouTube </a>]{style="white-space: nowrap;"}
+
 
 Invited Speaker, **Lingnan University Dept of Government and Int'l Affairs**. Title: *Public Administration in the Era of GPT: Scale Development and Synthetic Data* Jan 2026, Lingnan University, Hong Kong. [<a href="https://www.ln.edu.hk/gia/f/subsitefrontpage/106821/Public%20Lecture%20on%2022%20JAN%202026.jpg"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
