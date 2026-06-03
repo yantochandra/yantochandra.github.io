@@ -5,35 +5,41 @@ editor: visual
 
 ## **2026**
 
-Invited Panelist, **2026 Asia Pacific Policy Network (AP-PPN) Conference**. Title: *Publishing Strategies in Public Management Journal (the Editor's Forum)* May 2026, Zhou Enlai School of Government, Nankai University, Tianjin, China [<a href="https://www.ippapublicpolicy.org/announcement/call-for-papers-2026-asia-pacific-public-policy-network-agm-tianjin-china/1147"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+Keynote Speaker, **International Social Innovation Research Conference (ISIRC) 2026***.* Title to be confirmed, Dec 2026, Hosted by Duy Tan University, Da Nang, Vietnam [<a href="https://www.isirc2026.org/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
-Invited Speaker, Title: **LLM as a New Epistemology and How It Will Change Social Sciences.** April 2026, Hosted by Institute of Innovation and Entrepreneurship, Bern University of Applied Sciences, Bern, Switzerland. [<a href="https://www.bfh.ch/en/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+Invited Panelist, **2026 Asia Pacific Policy Network (AP-PPN) Conference**. Titles: *How To Publish Successfully in Public Management and Administration & Special Issue on The Downsides of AI in the Public Administration and Development (The Editor's Forum)* May 2026, Zhou Enlai School of Government, Nankai University, Tianjin, China [<a href="https://www.ippapublicpolicy.org/announcement/call-for-papers-2026-asia-pacific-public-policy-network-agm-tianjin-china/1147"> <i class="bi bi-journal-bookmark"></i> Event `</a> `{=html}]{style="white-space: nowrap;"} [<a href="https://mp.weixin.qq.com/s/j8X1r2-K3OMSeTxfvZ3qrA"> <i class="bi bi-journal-bookmark"></i> News</a>]{style="white-space: nowrap;"}
 
-Keynote Speaker, **22nd Annual Social Entrepreneurship Conference**. Title: *The End of Social Entrepreneurship? A Socio Political Turn and Why We Need it in the Policymakers Toolkits* May 2026, IMD Campus, Lausanne, Switzerland. [<a href="https://specialevents.imd.org/products/22nd-annual-social-entrepreneurship-conference"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"} [<a href="https://www.youtube.com/watch?v=97NqF88G8qI"> <i class="bi bi-journal-bookmark"></i> YouTube </a>]{style="white-space: nowrap;"}
+Invited Speaker, Title: *GPT as a New Research Infrastructure: Threats and Opportunities for Social Sciences.* May 2026, Hosted by Peking University School of Government, Beijing, China [<a href="https://mp.weixin.qq.com/s/Nbxsgd6kCD2CB5wRjMFBTg"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
-Invited Speaker, **Lingnan University Dept of Government and Int'l Affairs**. Title: *Public Administration in the Era of GPT: Scale Development and Synthetic Data* Jan 2026, Lingnan University, Hong Kong. [<a href="https://www.ln.edu.hk/gia/f/subsitefrontpage/106821/Public%20Lecture%20on%2022%20JAN%202026.jpg"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+Invited Speaker, Title: *LLM as a New Epistemology and How It Will Change Social Sciences.* April 2026, Hosted by Institute of Innovation and Entrepreneurship, Bern University of Applied Sciences, Bern, Switzerland. [<a href="https://www.bfh.ch/en/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+
+Keynote Speaker, **22nd Annual Social Entrepreneurship Conference**. Title: *The End of Social Entrepreneurship? A Socio Political Turn and Why We Need it in the Policymakers Toolkits,* May 2026, IMD Campus, Lausanne, Switzerland. [<a href="https://specialevents.imd.org/products/22nd-annual-social-entrepreneurship-conference"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"} [<a href="https://www.youtube.com/watch?v=97NqF88G8qI"> <i class="bi bi-journal-bookmark"></i> YouTube </a>]{style="white-space: nowrap;"}
+
+Invited Speaker, **Lingnan University Dept of Government and Int'l Affairs Seminar**. Title: *Public Administration in the Era of GPT: Scale Development and Synthetic Data,* Jan 2026, Lingnan University, Hong Kong. [<a href="https://www.ln.edu.hk/gia/f/subsitefrontpage/106821/Public%20Lecture%20on%2022%20JAN%202026.jpg"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
 ## **2025**
 
-Panel Speaker, **High Level Forum on GenAI Governance and Cultural Co-Creation**. Title: *Citizens Preferences on AI Governance* Oct 2025, Hong Kong University of Science and Technology (HKUST), Hong Kong. [<a href="https://hkust-mirc.github.io/GAGCC/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+Invited Speaker, **AI in Political Science: Past, Present and Future**. Title: *Warring States or Peace with Artificial Intelligence?* *Mapping the Intellectual Structure of* *Military AI,* June 2025, School of International Relations and Public Affairs, Fudan University, Shanghai, China. [<a href="https://mp.weixin.qq.com/s/EhjlOrZfx3_J3rBwUOk0uw"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
-Invited Speaker, **Cournot Seminar**. Title: *Experimental Paradigm in Social Entrepreneurship Research* Apr 2025, Bureau d'economie theorique et appliquee, University of Strasbourg, Strasbourg, France. [<a href="https://www.beta-economics.fr/en/evenements/cournot-seminar-yanto-chandra-university-of-hong-kong/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+Panel Speaker, **High Level Forum on GenAI Governance and Cultural Co-Creation**. Title: *Citizens Preferences on AI Governance,* Oct 2025, Hong Kong University of Science and Technology (HKUST), Hong Kong. [<a href="https://hkust-mirc.github.io/GAGCC/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+
+Invited Speaker, **Cournot Seminar**. Title: *Experimental Paradigm in Social Entrepreneurship Research,* April 2025, Bureau d'economie theorique et appliquee (BETA), University of Strasbourg, Strasbourg, France. [<a href="https://www.beta-economics.fr/en/evenements/cournot-seminar-yanto-chandra-university-of-hong-kong/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
 ## **2024**
 
-Plenary Speaker, **AI and Public Policy International Conference**. Title: *"Government Innovation in the Age of Generative AI: Promise and Pitfalls"* Nanyang Centre for Public Admin, Nanyang Technological University, Singapore, Nov 2024. [<a href="https://cms.lienconference.sg/index/index/detail?id=35"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+Plenary Speaker, **AI and Public Policy International Conference**. Title: *"Government Innovation in the Age of Generative AI: Promise and Pitfalls",* Nov 2024,Nanyang Centre for Public Administration, Nanyang Technological University, Singapore. [<a href="https://cms.lienconference.sg/index/index/detail?id=35"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
-Invited Speaker, **Collaborative Research Postgraduate Students' Seminar Series**. Title: *Social Entrepreneurship in and for Public Administration* School of Graduate Studies, Lingnan University, Hong Kong, Oct 2024. [<a href="https://www.beta-economics.fr/en/evenements/cournot-seminar-yanto-chandra-university-of-hong-kong/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+Invited Speaker, **Collaborative Research Postgraduate Students' Seminar Series**. Title: *Social Entrepreneurship in and for Public Administration, Oct 2024,* School of Graduate Studies, Lingnan University, Hong Kong. [<a href="https://www.beta-economics.fr/en/evenements/cournot-seminar-yanto-chandra-university-of-hong-kong/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
 ## **2023**
 
 Invited Speaker, Title: *Artificial Intelligence as a Method.* Hosted by the Department of Government and Public Administration, University of Macau, Macau SAR, China, 4 December 2023
 
-Keynote Speaker, **The 11th Gadjah Mada International Conference on Economics and Business (GAMAICEB)**. Title: *Blockchain as a New Driver of Social Entrepreneurship* Sept 2024, Yogyakarta, Indonesia. [<a href="https://feb.ugm.ac.id/en/news/4316-ifrs-enforcement-handling-greenwashing-and-blockchain-as-a-driver-of-social-entrepreneurship"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+Keynote Speaker, **The 11th Gadjah Mada International Conference on Economics and Business (GAMAICEB)**. Title: *Blockchain as a New Driver of Social Entrepreneurship,* Sept 2024, Yogyakarta, Indonesia. [<a href="https://feb.ugm.ac.id/en/news/4316-ifrs-enforcement-handling-greenwashing-and-blockchain-as-a-driver-of-social-entrepreneurship"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
 ## **2022**
 
-Keynote Speaker, **APRU Carbon Neutral Society Conference**. Title: *Blockchain as Social Innovation: Smart Contract for P2P Energy Trading* Kyushu University and Association of Pacific Rim Universities (APRU). June 2022, Online. [<a href="https://www.apru.org/event/apru-carbon-neutral-society-action-month/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
+Keynote Speaker, **APRU Carbon Neutral Society Conference**. Title: *Blockchain as Social Innovation: Smart Contract for P2P Energy Trading* Kyushu University and Association of Pacific Rim Universities (APRU), June 2022, Online. [<a href="https://www.apru.org/event/apru-carbon-neutral-society-action-month/"> <i class="bi bi-journal-bookmark"></i> Event </a>]{style="white-space: nowrap;"}
 
 ## **2021**
 
