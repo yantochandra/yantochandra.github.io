@@ -31,4 +31,6 @@ editor: visual
 
 ## **Services to the Academic Community**
 
+**Scientific Committee Member,** Asian Association for Public Administration (AAPA) Conference 2026, Nanyang Technological University, Singapore [<a href="https://aapa.asia/2026/03/call-for-papers-save-the-date-2026-annual-conference-of-the-asian-association-for-public-administration/" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ Current</a>]{style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;"}
+
 **Co-Chair,**  ***Special Interest Group (SIG) on Agile and Digital Transformation***, International Research Society for Public Management (IRSPM) [<a href="https://www.irspm.org/" target="_blank" rel="noopener" style="color: #856404; text-decoration: none;">⏳ Current</a>]{style="display: inline-block; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 2rem; padding: 0.25rem 0.75rem; font-size: 0.875rem; font-weight: 500; white-space: nowrap;"}
